@@ -1,0 +1,24 @@
+.row {
+  margin-left: 15px;
+}
+
+.main-card {
+  width: 22rem;
+  margin-top: 44px;
+}
+
+.img {
+  height: 180px;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.btn {
+  margin-top: 20px;
+}
+
+.spinner {
+  margin-top: 80px;
+}
